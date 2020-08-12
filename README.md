@@ -1,1 +1,1 @@
-# Awsome-Algorithms
+# Awsome Algorithms
